@@ -120,7 +120,6 @@ O **Agno** é o framework mais rápido e poderoso para construir sistemas de age
 
 ## 💡 **Diferencial do curso**
 
-- **Pedro Nunes Guth** - Expert em IA e AWS
 - **Metodologia Prática** - Aprenda fazendo
 - **Exemplos Reais** - Código que funciona
 - **Suporte Ativo** - Comunidade engajada
@@ -133,20 +132,3 @@ O **Agno** é o framework mais rápido e poderoso para construir sistemas de age
 Não perca tempo com frameworks lentos e complexos. O Agno é o futuro dos agentes AI, e você pode dominá-lo hoje mesmo.
 
 **Invista no seu futuro. Domine o Agno.**
-
----
-
-## 📞 **Suporte e Comunidade**
-
-- **Discord**: Comunidade ativa 24/7
-- **GitHub**: Código e exemplos
-- **Email**: Suporte direto
-- **Telegram**: Notícias e updates
-
----
-
-*"O Agno não é apenas um framework, é uma revolução na forma como construímos agentes AI. Domine essa tecnologia e esteja à frente do mercado."* - **Pedro Nunes Guth**
-
----
-
-**🚀 Pronto para revolucionar sua carreira? Comece agora!**
