@@ -1,134 +1,103 @@
-# 🚀 **Agno 2.0 Framework - Curso Completo**
+# Agno 2.0 Framework 
 
-> **Domine o framework mais rápido para construir sistemas de agentes AI profissionais**
+    ## Descrição
+    Curso completo com 13 módulos sobre Agno 2.0 Framework .
 
----
+    ## Estrutura do Curso
 
-## 🎯 **Por que escolher o Agno?**
+    ### Módulo 1: Módulo 1: Introdução ao Agno - Framework overview, instalação, primeiro agente simples
 
-O **Agno** é o framework mais rápido e poderoso para construir sistemas de agentes AI. Enquanto outros frameworks são lentos e complexos, o Agno oferece:
+        **Objetivo:** Aprender módulo 1: introdução ao agno - framework overview, instalação, primeiro agente simples
 
-- ⚡ **Velocidade**: Framework mais rápido do mercado
-- 🔒 **Privacidade Total**: Seus dados nunca saem do seu sistema
-- 🏢 **Segurança Empresarial**: Projetado para ambientes corporativos
-- 🎛️ **AgentOS Runtime**: App FastAPI pré-construído
-- 🎮 **Control Plane**: Interface completa de gerenciamento
+        ---
 
----
+        ### Módulo 2: Módulo 2: Agentes Básicos - Modelos LLM, instruções, roles e configuração
 
-## 📚 **O que você vai aprender**
+        **Objetivo:** Aprender módulo 2: agentes básicos - modelos llm, instruções, roles e configuração
 
-### **Módulo 1: Introdução ao Agno**
-- O que é o Agno e por que é revolucionário
-- Instalação e configuração em minutos
-- Seu primeiro agente funcionando
+        ---
 
-### **Módulo 2: Agentes Básicos**
-- Modelos LLM disponíveis
-- Instruções e roles
-- Configuração avançada
+        ### Módulo 3: Módulo 3: Ferramentas e Tools - Integração externa, DuckDuckGo, HackerNews, tools customizadas
 
-### **Módulo 3: Ferramentas e Tools**
-- Integração com DuckDuckGo, HackerNews
-- 120+ toolkits pré-construídos
-- Criação de ferramentas customizadas
+        **Objetivo:** Aprender módulo 3: ferramentas e tools - integração externa, duckduckgo, hackernews, tools customizadas
 
-### **Módulo 4: Conhecimento e RAG**
-- Vector databases
-- Agentic RAG
-- Embeddings e busca semântica
+        ---
 
-### **Módulo 5: Memória e Persistência**
-- Sistema de memória dos agentes
-- Armazenamento de sessões
-- Bancos de dados
+        ### Módulo 4: Módulo 4: Conhecimento e RAG - Vector databases, embeddings, Agentic RAG
 
-### **Módulo 6: Agentes Multimodal**
-- Processamento de imagens
-- Visão computacional
-- Agentes que veem e entendem
+        **Objetivo:** Aprender módulo 4: conhecimento e rag - vector databases, embeddings, agentic rag
 
-### **Módulo 7: Reasoning e Raciocínio**
-- Ferramentas de pensamento
-- Análise e raciocínio
-- Agentes que pensam
+        ---
 
-### **Módulo 8: Teams Multi-Agente**
-- Colaboração entre agentes
-- Comunicação eficiente
-- Sistemas distribuídos
+        ### Módulo 5: Módulo 5: Memória e Persistência - Sistema de memória, armazenamento de sessões
 
-### **Módulo 9: Workflows Básicos**
-- Fluxos sequenciais
-- Steps simples
-- Automação básica
+        **Objetivo:** Aprender módulo 5: memória e persistência - sistema de memória, armazenamento de sessões
 
-### **Módulo 10: Workflows Avançados**
-- Fluxos condicionais
-- Loops e complexidade
-- Automação avançada
+        ---
 
-### **Módulo 11: Avaliação de Agentes**
-- Métricas de performance
-- Testes automatizados
-- Otimização
+        ### Módulo 6: Módulo 6: Agentes Multimodal - Processamento de imagens, visão, multimodal
 
----
+        **Objetivo:** Aprender módulo 6: agentes multimodal - processamento de imagens, visão, multimodal
 
-## 🎁 **O que você recebe**
+        ---
 
-✅ **11 Módulos Completos** - Mais de 20 horas de conteúdo  
-✅ **Código Prático** - Exemplos funcionais em cada módulo  
-✅ **Projetos Reais** - Sistemas que funcionam na prática  
-✅ **Suporte Técnico** - Comunidade ativa e suporte  
-✅ **Atualizações Gratuitas** - Sempre com as últimas versões  
-✅ **Certificado** - Comprove seu conhecimento  
+        ### Módulo 7: Módulo 7: Reasoning e Raciocínio - Ferramentas de pensamento, análise, reasoning
 
----
+        **Objetivo:** Aprender módulo 7: reasoning e raciocínio - ferramentas de pensamento, análise, reasoning
 
-## 🚀 **Resultados que você vai alcançar**
+        ---
 
-- **Construir agentes AI** em minutos, não horas
-- **Sistemas de produção** prontos para escalar
-- **Automação inteligente** para seu negócio
-- **Vantagem competitiva** com tecnologia de ponta
-- **Economia de tempo** com ferramentas otimizadas
+        ### Módulo 8: Módulo 8: Teams Multi-Agente - Colaboração, comunicação entre agentes
 
----
+        **Objetivo:** Aprender módulo 8: teams multi-agente - colaboração, comunicação entre agentes
 
-## 👨‍💻 **Para quem é este curso**
+        ---
 
-- **Desenvolvedores** que querem dominar agentes AI
-- **Empresários** que buscam automação inteligente
-- **Estudantes** de tecnologia e IA
-- **Profissionais** que querem se destacar
-- **Qualquer pessoa** interessada em IA prática
+        ### Módulo 9: Módulo 9: Workflows Básicos - Fluxos sequenciais, steps simples
 
----
+        **Objetivo:** Aprender módulo 9: workflows básicos - fluxos sequenciais, steps simples
 
-## 🛠️ **Tecnologias que você vai dominar**
+        ---
 
-- **Agno Framework** - Framework principal
-- **Python** - Linguagem de programação
-- **APIs de IA** - Integração com modelos
-- **Vector Databases** - Armazenamento inteligente
-- **FastAPI** - APIs rápidas e eficientes
-- **Docker** - Containerização
-- **Cloud Computing** - Deploy em produção
+        ### Módulo 10: Módulo 10: Workflows Avançados - Fluxos condicionais, loops, complexos
 
----
+        **Objetivo:** Aprender módulo 10: workflows avançados - fluxos condicionais, loops, complexos
 
-## 💡 **Diferencial do curso**
+        ---
 
-- **Metodologia Prática** - Aprenda fazendo
-- **Exemplos Reais** - Código que funciona
-- **Suporte Ativo** - Comunidade engajada
-- **Atualizações Constantes** - Sempre atualizado
+        ### Módulo 11: Módulo 11: Avaliação de Agentes - Métricas, testes, performance
 
----
+        **Objetivo:** Aprender módulo 11: avaliação de agentes - métricas, testes, performance
 
-## 🎯 **Comece agora mesmo**
+        ---
 
-Não perca tempo com frameworks lentos e complexos. O Agno é o futuro dos agentes AI, e você pode dominá-lo hoje mesmo.
+        ### Módulo 12: Módulo 12: AgentOS Produção - Deploy, monitoramento, produção
 
-**Invista no seu futuro. Domine o Agno.**
+        **Objetivo:** Aprender módulo 12: agentos produção - deploy, monitoramento, produção
+
+        ---
+
+        ### Módulo 13: Módulo 13: Projeto Final - Sistema completo end-to-end
+
+        **Objetivo:** Aprender módulo 13: projeto final - sistema completo end-to-end
+
+        ---
+
+        
+## Notebooks Gerados
+
+Total de notebooks: 13
+
+1. [modulo-01-módulo-1:-introdução-ao-agno---framework-overview,-instalação,-primeiro-agente-simples-notebook.ipynb](modulo-01-módulo-1:-introdução-ao-agno---framework-overview,-instalação,-primeiro-agente-simples-notebook.ipynb)
+2. [modulo-02-módulo-2:-agentes-básicos---modelos-llm,-instruções,-roles-e-configuração-notebook.ipynb](modulo-02-módulo-2:-agentes-básicos---modelos-llm,-instruções,-roles-e-configuração-notebook.ipynb)
+3. [modulo-03-módulo-3:-ferramentas-e-tools---integração-externa,-duckduckgo,-hackernews,-tools-customizadas-notebook.ipynb](modulo-03-módulo-3:-ferramentas-e-tools---integração-externa,-duckduckgo,-hackernews,-tools-customizadas-notebook.ipynb)
+4. [modulo-04-módulo-4:-conhecimento-e-rag---vector-databases,-embeddings,-agentic-rag-notebook.ipynb](modulo-04-módulo-4:-conhecimento-e-rag---vector-databases,-embeddings,-agentic-rag-notebook.ipynb)
+5. [modulo-05-módulo-5:-memória-e-persistência---sistema-de-memória,-armazenamento-de-sessões-notebook.ipynb](modulo-05-módulo-5:-memória-e-persistência---sistema-de-memória,-armazenamento-de-sessões-notebook.ipynb)
+6. [modulo-06-módulo-6:-agentes-multimodal---processamento-de-imagens,-visão,-multimodal-notebook.ipynb](modulo-06-módulo-6:-agentes-multimodal---processamento-de-imagens,-visão,-multimodal-notebook.ipynb)
+7. [modulo-07-módulo-7:-reasoning-e-raciocínio---ferramentas-de-pensamento,-análise,-reasoning-notebook.ipynb](modulo-07-módulo-7:-reasoning-e-raciocínio---ferramentas-de-pensamento,-análise,-reasoning-notebook.ipynb)
+8. [modulo-08-módulo-8:-teams-multi-agente---colaboração,-comunicação-entre-agentes-notebook.ipynb](modulo-08-módulo-8:-teams-multi-agente---colaboração,-comunicação-entre-agentes-notebook.ipynb)
+9. [modulo-09-módulo-9:-workflows-básicos---fluxos-sequenciais,-steps-simples-notebook.ipynb](modulo-09-módulo-9:-workflows-básicos---fluxos-sequenciais,-steps-simples-notebook.ipynb)
+10. [modulo-10-módulo-10:-workflows-avançados---fluxos-condicionais,-loops,-complexos-notebook.ipynb](modulo-10-módulo-10:-workflows-avançados---fluxos-condicionais,-loops,-complexos-notebook.ipynb)
+11. [modulo-11-módulo-11:-avaliação-de-agentes---métricas,-testes,-performance-notebook.ipynb](modulo-11-módulo-11:-avaliação-de-agentes---métricas,-testes,-performance-notebook.ipynb)
+12. [modulo-12-módulo-12:-agentos-produção---deploy,-monitoramento,-produção-notebook.ipynb](modulo-12-módulo-12:-agentos-produção---deploy,-monitoramento,-produção-notebook.ipynb)
+13. [modulo-13-módulo-13:-projeto-final---sistema-completo-end-to-end-notebook.ipynb](modulo-13-módulo-13:-projeto-final---sistema-completo-end-to-end-notebook.ipynb)
